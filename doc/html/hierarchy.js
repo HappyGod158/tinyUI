@@ -9,6 +9,8 @@ var hierarchy =
     ] ],
     [ "PluginInterface", "class_plugin_interface.html", null ],
     [ "PluginManager", "class_plugin_manager.html", null ],
+    [ "QtAwesomeManager", "class_qt_awesome_manager.html", null ],
+    [ "SettingManager", "class_setting_manager.html", null ],
     [ "SidebarManager", "class_sidebar_manager.html", null ],
     [ "Workspace", "class_workspace.html", null ]
 ];

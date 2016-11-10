@@ -4,6 +4,12 @@
 #include <QObject>
 #include "api_global.h"
 
+
+/*!
+ * \brief 配置管理
+ *
+ * 配置管理的作用是保存和恢复窗口工作区状态
+ */
 class APISHARED_EXPORT SettingManager : public QObject
 {
     Q_OBJECT

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['tabwidget',['TabWidget',['../class_tab_widget.html#a5aad386a078e6085d72e5ade6c4a678d',1,'TabWidget']]]
+  ['writesettings',['writeSettings',['../class_setting_manager.html#a4c795ca4c1ee188a338a539e888aa3ad',1,'SettingManager']]]
 ];

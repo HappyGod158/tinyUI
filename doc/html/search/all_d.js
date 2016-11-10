@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['tabwidget',['TabWidget',['../class_tab_widget.html',1,'TabWidget'],['../class_tab_widget.html#a5aad386a078e6085d72e5ade6c4a678d',1,'TabWidget::TabWidget()']]],
-  ['tabwidget_2ecpp',['tabwidget.cpp',['../tabwidget_8cpp.html',1,'']]],
-  ['tabwidget_2eh',['tabwidget.h',['../tabwidget_8h.html',1,'']]]
+  ['workspace',['Workspace',['../class_workspace.html',1,'']]],
+  ['writesettings',['writeSettings',['../class_setting_manager.html#a4c795ca4c1ee188a338a539e888aa3ad',1,'SettingManager']]]
 ];

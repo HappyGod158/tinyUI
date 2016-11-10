@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['sidebarmanager',['SidebarManager',['../class_sidebar_manager.html',1,'']]]
+  ['qtawesomemanager',['QtAwesomeManager',['../class_qt_awesome_manager.html',1,'']]]
 ];

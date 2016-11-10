@@ -1,6 +1,20 @@
 var searchData=
 [
-  ['unlinkpage',['unlinkPage',['../class_page_manager.html#a692763272d3a48e967a52f99e07bad6d',1,'PageManager']]],
-  ['unloadplugins',['unloadPlugins',['../class_plugin_manager.html#a3b422f3d361e66bf962793febea87e14',1,'PluginManager']]],
-  ['unregisterpageinfo',['unregisterPageInfo',['../class_page_manager.html#a55b2ddf2ea0b6026ae9ddf2b7d28bf9d',1,'PageManager']]]
+  ['serialize',['serialize',['../class_container_pane.html#ad25e44001363bd156a7f63fc2bc5b3d5',1,'ContainerPane::serialize()'],['../class_content_pane.html#a8a24f07b169975acd57db59e7b55013e',1,'ContentPane::serialize()'],['../class_pane.html#a42eab7dbe4c527aceb269a05cce7add7',1,'Pane::serialize()']]],
+  ['setautorestore',['setAutoRestore',['../class_workspace.html#a188f35ddda7a910dde6c44dc8658a873',1,'Workspace']]],
+  ['setconnectivity',['setConnectivity',['../class_workspace.html#a2209e83e7f69aa0ec24dd15c8667db4d',1,'Workspace']]],
+  ['setconstructor',['setConstructor',['../class_page_info.html#a7e0f8dff9944ea41930e66082585d3be',1,'PageInfo']]],
+  ['setlabel',['setLabel',['../class_page_info.html#a1891d0d02bcdf806d61d1692a941c10a',1,'PageInfo']]],
+  ['setloginscreen',['setLoginScreen',['../class_nexus.html#a387c42152003084706d86c944cd3ec2a',1,'Nexus']]],
+  ['setpage',['setPage',['../class_page_info.html#a813f233cda9ba224a74f8dca05ddda4a',1,'PageInfo']]],
+  ['settingmanager',['SettingManager',['../class_setting_manager.html',1,'']]],
+  ['seturl',['setUrl',['../class_page_info.html#ab89ecaa031f79de44db2cf6b2c924398',1,'PageInfo']]],
+  ['showlogin',['showLogin',['../class_nexus.html#afeeecf3e1d4b8c1b52c93bce968deafe',1,'Nexus']]],
+  ['showmaingui',['showMainGUI',['../class_nexus.html#ada5ffc7a425c219135950a097c30b6fe',1,'Nexus']]],
+  ['showtempmessage',['showTempMessage',['../class_workspace.html#a42635136a0e36a6eb8977706886f38a8',1,'Workspace']]],
+  ['sidebarmanager',['SidebarManager',['../class_sidebar_manager.html',1,'']]],
+  ['splitbottom',['splitBottom',['../class_content_pane.html#adccdc1335fafd28f389fe625b37a0958',1,'ContentPane']]],
+  ['splitleft',['splitLeft',['../class_content_pane.html#af240a3e081d4d38972a39d85ca55d5be',1,'ContentPane']]],
+  ['splitright',['splitRight',['../class_content_pane.html#aeea119b8c7c28b3cfe652c0e4726fbef',1,'ContentPane']]],
+  ['splittop',['splitTop',['../class_content_pane.html#ab98e34b2bc6d09aa6d704682e80b6eed',1,'ContentPane']]]
 ];

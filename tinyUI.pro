@@ -20,7 +20,6 @@ HEADERS += menuManager.h\
     menu.h \
     containerpane.h \
     contentpane.h \
-    global.h \
     widget/subwindow.h \
     qtawesomemanager.h \
     pagemanager.h \

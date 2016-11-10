@@ -1,21 +1,24 @@
 var indexSectionsWithContent =
 {
-  0: "acdgilnoprsuw",
-  1: "cnpsw",
-  2: "acdgiloprsu"
+  0: "acdgilnopqrsuw",
+  1: "cnpqsw",
+  2: "acdgiloprsuw",
+  3: "r"
 };
 
 var indexSectionNames =
 {
   0: "all",
   1: "classes",
-  2: "functions"
+  2: "functions",
+  3: "pages"
 };
 
 var indexSectionLabels =
 {
-  0: "全部",
-  1: "类",
-  2: "函数"
+  0: "All",
+  1: "Classes",
+  2: "Functions",
+  3: "Pages"
 };
 
