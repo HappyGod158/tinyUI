@@ -2,7 +2,7 @@
 #define NEXUS_H
 
 #include <QObject>
-#include "widget/mainwindow.h"
+#include "mainwindow.h"
 
 #include "api_global.h"
 
@@ -48,7 +48,7 @@ public:
     /*!
      * \brief 显示主窗口
      */
-    void showMainGUI();
+    void showMainWindow();
 
     /*!
      * \brief 设置登录界面

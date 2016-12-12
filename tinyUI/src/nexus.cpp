@@ -48,9 +48,10 @@ void Nexus::showLogin()
     loginScreen->show();
 }
 
-void Nexus::showMainGUI()
+void Nexus::showMainWindow()
 {
-    loginScreen->close();
+    if(loginScreen)
+        loginScreen->close();
     mainWindow->showMaximized();
 }
 

@@ -3,7 +3,7 @@
 
 #include <QObject>
 #include "api_global.h"
-#include "QtAwesome.h"
+#include "../QtAwesome/QtAwesome.h"
 
 /*!
  * \brief QtAwesome对象获取

@@ -2,8 +2,8 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include "../plugininterface.h"
-#include "../pane.h"
+#include "plugininterface.h"
+#include "pane.h"
 #include <QLabel>
 
 namespace Ui {

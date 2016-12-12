@@ -10,7 +10,7 @@ var searchData=
   ['settingmanager',['SettingManager',['../class_setting_manager.html',1,'']]],
   ['seturl',['setUrl',['../class_page_info.html#ab89ecaa031f79de44db2cf6b2c924398',1,'PageInfo']]],
   ['showlogin',['showLogin',['../class_nexus.html#afeeecf3e1d4b8c1b52c93bce968deafe',1,'Nexus']]],
-  ['showmaingui',['showMainGUI',['../class_nexus.html#ada5ffc7a425c219135950a097c30b6fe',1,'Nexus']]],
+  ['showmainwindow',['showMainWindow',['../class_nexus.html#a900f3ad88708490e8523ab1ed587d77d',1,'Nexus']]],
   ['showtempmessage',['showTempMessage',['../class_workspace.html#a42635136a0e36a6eb8977706886f38a8',1,'Workspace']]],
   ['sidebarmanager',['SidebarManager',['../class_sidebar_manager.html',1,'']]],
   ['splitbottom',['splitBottom',['../class_content_pane.html#adccdc1335fafd28f389fe625b37a0958',1,'ContentPane']]],
