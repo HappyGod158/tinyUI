@@ -13,3 +13,8 @@
 6. 主窗口工作区可以自动恢复上一次程序打开的状态，包括：分割的面板、每个面板的大小、每个面板中打开的页面。
 
 7. 支持Font Awesome 4.3.0
+
+
+示例：
+
+[[https://github.com/yuanyinchun/tinyUI/blob/master/img/demo.gif|alt=demo]]
