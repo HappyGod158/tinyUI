@@ -17,4 +17,4 @@
 
 示例：
 
-[[https://github.com/yuanyinchun/tinyUI/blob/master/img/demo.gif|alt=demo]]
+![alt demo](https://github.com/yuanyinchun/tinyUI/blob/master/img/demo.gif)
